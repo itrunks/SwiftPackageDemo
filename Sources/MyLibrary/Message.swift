@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Message {
+struct MessageTest {
     
     static func welcome() -> String{
         return "Hello World"
